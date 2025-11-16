@@ -1,89 +1,29 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Minimal Working Demo</title>
+<h1 align="center">Hi 👋, I'm Qihang(Kyle) Chen</h1>
+<h3 align="center">A passionate data scientist from Carnegie Mellon University</h3>
 
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 20px;
-      background: #f5f5f5;
-      transition: background 0.3s, color 0.3s;
-    }
+- 🔭 I’m currently on [A User Behavior Funnel Analytics Platform that helps understand how users move from browsing to purchasing. I’m building the full pipeline—from cleaning raw event logs, converting them to efficient storage formats, running SQL analysis, and finally creating interactive dashboards for business teams.](https://github.com/MachinelearningexpertQihang/Data-Science-Project)
 
-    .dark {
-      background: #111;
-      color: #eee;
-    }
+- 🌱 I’m currently learning **AWS(AWS Certified Data Engineer Associate )**
 
-    .container {
-      max-width: 800px;
-      margin: auto;
-    }
+- 👯 I’m looking to collaborate on [Data science or data engineering projects involving: real-time analytics user behavior modeling large-scale data pipelines practical machine learning applications](https://github.com/MachinelearningexpertQihang/Data-Science-Project)
 
-    button {
-      padding: 10px 16px;
-      border: none;
-      background: #0a7e8c;
-      color: white;
-      font-size: 14px;
-      border-radius: 6px;
-      cursor: pointer;
-    }
+- 🤝 I’m looking for help with [Improving the stability and performance of high-throughput data pipelines— especially in areas like load testing, monitoring data quality, and building more reliable streaming systems.](https://github.com/MachinelearningexpertQihang/Data-Science-Project)
 
-    #gameBox {
-      margin-top: 30px;
-      padding: 20px;
-      background: white;
-      border-radius: 8px;
-    }
+- 👨‍💻 All of my projects are available at [https://github.com/MachinelearningexpertQihang/Data-Science-Project](https://github.com/MachinelearningexpertQihang/Data-Science-Project)
 
-    .dark #gameBox {
-      background: #222;
-    }
-  </style>
-</head>
+- 💬 Ask me about **AWS, Machine Learning,SQL**
 
-<body>
-  <div class="container">
-    <h1>Minimal Working Demo</h1>
+- 📫 How to reach me **kylec2@andrew.cmu.edu**
 
-    <!-- Dark / Light toggle -->
-    <button id="themeBtn">Toggle Dark Mode</button>
+- 📄 Know about my experiences [https://kylechen0101.vercel.app/](https://kylechen0101.vercel.app/)
 
-    <!-- Simple click mini-game -->
-    <div id="gameBox">
-      <h2>Click Mini-Game</h2>
-      <p>Score: <span id="score">0</span></p>
-      <button id="clickBtn">Click Me</button>
-    </div>
+- ⚡ Fun fact **Before study data science I'm a filmmaker and basketball athlete**
 
-    <!-- Animated GitHub stats (replace YOUR_GITHUB_USERNAME) -->
-    <h2 style="margin-top:40px">GitHub Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" width="480" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" width="480" />
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME" width="480" />
-  </div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/qihang (kyle) chen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qihang (kyle) chen" height="30" width="40" /></a>
+</p>
 
-  <script>
-    // Theme toggle
-    const themeBtn = document.getElementById("themeBtn");
-    themeBtn.onclick = () => {
-      document.body.classList.toggle("dark");
-    };
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-    // Mini game
-    let score = 0;
-    const scoreEl = document.getElementById("score");
-    const clickBtn = document.getElementById("clickBtn");
-
-    clickBtn.onclick = () => {
-      score++;
-      scoreEl.textContent = score;
-    };
-  </script>
-</body>
-</html>
